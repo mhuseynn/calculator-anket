@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Meryem",
+    "surname": "Mehdiyeva",
+    "father_name": "Panah",
+    "country": "Azerbaijan",
+    "city": "Baku",
+    "telephone": "123124234",
+    "birthday": "2005-03-03T20:11:45",
+    "gender": "female"
+  },
+  {
+    "name": "Ali",
+    "surname": "Mehdili ",
+    "father_name": "Panah",
+    "country": "Azerbaijan",
+    "city": "Xizi",
+    "telephone": "12323134",
+    "birthday": "2005-03-03T20:11:45",
+    "gender": "male"
+  },
+  {
+    "name": "Huseyn",
+    "surname": "Mehdiyev",
+    "father_name": "Panah",
+    "country": "Azerbaijan",
+    "city": "Xizi",
+    "telephone": "12312312344",
+    "birthday": "2005-03-03T00:00:00",
+    "gender": "male"
+  }
+]

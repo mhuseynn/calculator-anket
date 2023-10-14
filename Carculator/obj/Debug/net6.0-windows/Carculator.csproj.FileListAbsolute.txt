@@ -1,0 +1,16 @@
+C:\Users\Huseyn\source\repos\Winform\Carculator\bin\Debug\net6.0-windows\Carculator.exe
+C:\Users\Huseyn\source\repos\Winform\Carculator\bin\Debug\net6.0-windows\Carculator.deps.json
+C:\Users\Huseyn\source\repos\Winform\Carculator\bin\Debug\net6.0-windows\Carculator.runtimeconfig.json
+C:\Users\Huseyn\source\repos\Winform\Carculator\bin\Debug\net6.0-windows\Carculator.dll
+C:\Users\Huseyn\source\repos\Winform\Carculator\bin\Debug\net6.0-windows\Carculator.pdb
+C:\Users\Huseyn\source\repos\Winform\Carculator\obj\Debug\net6.0-windows\Carculator.Form1.resources
+C:\Users\Huseyn\source\repos\Winform\Carculator\obj\Debug\net6.0-windows\Carculator.csproj.GenerateResource.cache
+C:\Users\Huseyn\source\repos\Winform\Carculator\obj\Debug\net6.0-windows\Carculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyn\source\repos\Winform\Carculator\obj\Debug\net6.0-windows\Carculator.AssemblyInfoInputs.cache
+C:\Users\Huseyn\source\repos\Winform\Carculator\obj\Debug\net6.0-windows\Carculator.AssemblyInfo.cs
+C:\Users\Huseyn\source\repos\Winform\Carculator\obj\Debug\net6.0-windows\Carculator.csproj.CoreCompileInputs.cache
+C:\Users\Huseyn\source\repos\Winform\Carculator\obj\Debug\net6.0-windows\Carculator.dll
+C:\Users\Huseyn\source\repos\Winform\Carculator\obj\Debug\net6.0-windows\refint\Carculator.dll
+C:\Users\Huseyn\source\repos\Winform\Carculator\obj\Debug\net6.0-windows\Carculator.pdb
+C:\Users\Huseyn\source\repos\Winform\Carculator\obj\Debug\net6.0-windows\Carculator.genruntimeconfig.cache
+C:\Users\Huseyn\source\repos\Winform\Carculator\obj\Debug\net6.0-windows\ref\Carculator.dll
